@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DashboardVC.continueAction(_:):DashboardVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewCell.checkbokAction(_:):DashboardViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardVC.onSelectedItem(item:):DashboardVC.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
